@@ -1,6 +1,12 @@
-# windows-mcp-highspeed
+<p align="center">
+  <img src="assets/logo.png" alt="windows-mcp-highspeed logo" width="160">
+</p>
 
-A fast [Model Context Protocol](https://modelcontextprotocol.io) server that automates Windows desktop applications through the **UI Automation (UIA) accessibility tree** — pure semantic tree navigation and window handles, **no screenshots**. Because it reads the same structured tree that screen readers use, it is dramatically faster and more reliable than pixel-based automation: a `snapshot` of the desktop completes in milliseconds, and every interaction targets elements by identity, not by coordinates. Compared to the established Python/Node MCP UIA servers, the whole accessibility layer runs pinned to a single COM thread with batched cache requests, removing most cross-process round trips that make those implementations feel sluggish.
+<h1 align="center">windows-mcp-highspeed</h1>
+
+<p align="center">A fast <a href="https://modelcontextprotocol.io">Model Context Protocol</a> server that automates Windows desktop applications through the <strong>UI Automation (UIA) accessibility tree</strong> — pure semantic tree navigation and window handles, <strong>no screenshots</strong>.</p>
+
+Because it reads the same structured tree that screen readers use, it is dramatically faster and more reliable than pixel-based automation: a `snapshot` of the desktop completes in milliseconds, and every interaction targets elements by identity, not by coordinates. Compared to the established Python/Node MCP UIA servers, the whole accessibility layer runs pinned to a single COM thread with batched cache requests, removing most cross-process round trips that make those implementations feel sluggish.
 
 ## Support this project
 
