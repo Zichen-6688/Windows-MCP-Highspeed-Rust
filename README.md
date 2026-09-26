@@ -10,9 +10,9 @@ Because it reads the same structured tree that screen readers use, it is dramati
 
 ## Support this project
 
-`windows-mcp-highspeed` is free for personal use. If it saves you time, you can buy the author a coffee via WeChat Pay:
+`windows-mcp-highspeed` is free for personal use. If it saves you time, you can buy the author a coffee via Alipay:
 
-<img src="assets/wechat-sponsor.jpg" alt="WeChat Pay sponsorship QR code" width="200">
+<img src="assets/sponsor.jpg" alt="Alipay sponsorship QR code" width="200">
 
 Businesses using it commercially are asked to [purchase a license](#license).
 
